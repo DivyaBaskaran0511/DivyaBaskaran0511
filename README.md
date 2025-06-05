@@ -1,7 +1,3 @@
-Absolutely, Divya! Based on everything I know about your background—including your MCA studies, project on **Stock Trading Agent using Reinforcement Learning**, your skills in **Java, Python, SQL, web development (React/Next.js + Tailwind CSS)**, and interest in **AI, ML, and WhatsApp Business API integration**—here’s a customized version of your intro:
-
----
-
 👋 Hello, I'm **Divya**, an **MCA student** passionate about **AI, Machine Learning, and Software Development**.
 
 📊 My research project focuses on building a **Stock Trading Agent using Reinforcement Learning**. I'm implementing **Deep Q-Networks (DQN)** and exploring **Double DQN** techniques to improve trading decision-making. The project is being developed on **Kaggle** using Python and **Chainer**.
